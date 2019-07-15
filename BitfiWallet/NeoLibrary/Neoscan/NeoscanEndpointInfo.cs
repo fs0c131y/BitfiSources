@@ -15,3 +15,4 @@ namespace NeoGasLibrary.Neoscan
     public UInt64 Height { get; set; }
   }
 }
+

@@ -17,3 +17,4 @@ namespace NeoGasLibrary.Neoscan
     public NeoscanUnspent[] Unspent { get; set; }
   }
 }
+

@@ -128,3 +128,4 @@ namespace Ripple.Core.Types
         // eg. see: TransactionResult
     }
 }
+

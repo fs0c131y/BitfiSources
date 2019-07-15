@@ -12,3 +12,4 @@ namespace Apollo.Models
     public string BalanceATM { get; set; }
   }
 }
+

@@ -15,3 +15,4 @@ namespace Ripple.Core.Enums
     }
 
 }
+

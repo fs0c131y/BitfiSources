@@ -17,3 +17,4 @@ namespace NeoGasLibrary.Neoscan
     public UInt64 EndHeight { get; set; }
   }
 }
+

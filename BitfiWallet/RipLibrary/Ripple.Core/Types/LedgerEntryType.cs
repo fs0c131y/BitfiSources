@@ -31,3 +31,4 @@ namespace Ripple.Core.Types
         }
     }
 }
+

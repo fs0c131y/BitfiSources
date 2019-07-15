@@ -98,3 +98,4 @@ namespace Ripple.Core.Hashing
         }
     }
 }
+

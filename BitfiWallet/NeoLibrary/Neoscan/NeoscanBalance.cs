@@ -10,3 +10,4 @@ namespace NeoGasLibrary.Neoscan
     public string Address { get; set; }
   }
 }
+

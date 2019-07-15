@@ -7,3 +7,4 @@ namespace Ripple.Core.Enums
                     isSigningField, isSerialised) {}
     }
 }
+

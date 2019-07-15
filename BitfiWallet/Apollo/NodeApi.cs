@@ -28,3 +28,28 @@ namespace Apollo
       ));
 
       JObject o = (JObject)JToken.FromObject(new { });
+            return null;
+    }
+
+    public BroadcastResponse BroadcastTransaction(string transactionBytes)
+    {
+      var completeUrl = String.Format(BaseUrl, "broadcastTransaction", 
+        String.Format("transactionBytes={0}", transactionBytes));
+      JObject o = (JObject)JToken.FromObject(new { });
+            return null;
+    }
+
+    public AccountTxes GetAccountTransactions(string accountId)
+    {
+      var completeUrl = String.Format(BaseUrl, "getBlockchainTransactions", String.Format("account={0}", accountId));
+            return null;
+    }
+
+    public Account GetAccount(string accountId)
+    {
+      var completeUrl = String.Format(BaseUrl, "getAccount", String.Format("account={0}", accountId));
+            return null;
+    }
+  }
+}
+

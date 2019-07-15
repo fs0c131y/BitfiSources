@@ -17,3 +17,4 @@ namespace Chaos.NaCl
         public static OneTimeAuth Poly1305 { get { return _poly1305; } }
     }
 }
+

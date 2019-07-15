@@ -122,3 +122,4 @@ namespace Ripple.Core.Types
         }
     }
 }
+

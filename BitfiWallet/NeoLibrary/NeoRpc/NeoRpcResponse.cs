@@ -12,3 +12,4 @@ namespace NeoGasLibrary.NeoRpc
     public T Result { get; set; }
   }
 }
+

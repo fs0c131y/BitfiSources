@@ -14,3 +14,4 @@ namespace NeoGasLibrary.NeoRpc
     public object[] Params { get; set; }
   }
 }
+

@@ -45,3 +45,8 @@ namespace NeoGasLibrary.NeoRpc
 
     public bool SendRawTransaction(string hexTx)
     {
+            return true;
+    }
+  }
+}
+

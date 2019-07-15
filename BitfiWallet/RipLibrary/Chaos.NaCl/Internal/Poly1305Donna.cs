@@ -100,3 +100,4 @@ namespace Chaos.NaCl.Internal
         }
     }
 }
+

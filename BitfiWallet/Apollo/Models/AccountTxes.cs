@@ -12,3 +12,4 @@ namespace Apollo.Models
     public Transaction[] Transactions { get; set; }
   }
 }
+

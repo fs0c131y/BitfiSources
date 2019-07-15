@@ -12,3 +12,4 @@ namespace Apollo.Models
     public SendTx TransactionJSON { get; set; }
   }
 }
+

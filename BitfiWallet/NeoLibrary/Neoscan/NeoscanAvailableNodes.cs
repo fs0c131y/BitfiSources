@@ -13,3 +13,4 @@ namespace NeoGasLibrary.Neoscan
     public string[] Urls { get; set; }
   }
 }
+

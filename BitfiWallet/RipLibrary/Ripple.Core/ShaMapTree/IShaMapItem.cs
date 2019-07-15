@@ -11,3 +11,4 @@ namespace Ripple.Core.ShaMapTree
         HashPrefix Prefix();
     }
 }
+

@@ -25,3 +25,4 @@ namespace Chaos.NaCl.Internal
         public T x15;
     }
 }
+

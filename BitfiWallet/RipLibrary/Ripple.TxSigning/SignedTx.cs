@@ -16,3 +16,4 @@ namespace Ripple.TxSigning
         }
     }
 }
+

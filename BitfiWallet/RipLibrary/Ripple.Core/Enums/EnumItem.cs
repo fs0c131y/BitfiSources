@@ -36,3 +36,4 @@ namespace Ripple.Core.Enums
         }
     }
 }
+

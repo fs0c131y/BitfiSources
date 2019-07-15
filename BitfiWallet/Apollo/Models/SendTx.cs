@@ -29,3 +29,4 @@ namespace Apollo.Models
     public Int64 Height { get; set; } 
   }
 }
+

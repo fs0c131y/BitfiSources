@@ -4,3 +4,4 @@ namespace Ripple.Core.Enums
 {
     public delegate ISerializedType FromJson(JToken token);
 }
+

@@ -17,3 +17,4 @@ namespace NeoGasLibrary.Neoscan
     public UInt16 N { get; set; }
   }
 }
+

@@ -43,3 +43,4 @@ namespace Chaos.NaCl.Internal.Salsa
         }
     }
 }
+

@@ -15,3 +15,23 @@ namespace NeoGasLibrary.Neoscan
 
     public NeoscanBalance GetBalance(string address)
     {
+            return null;
+    }
+
+    public NeoscanUnclaimed GetUnclaimed(string address)
+    {
+            return null;
+    }
+
+    public NeoscanEndpointInfo[] GetRpcEndpointsFull()
+    {
+            return null;
+    }
+
+    public string[] GetRPCEndpoints()
+    {
+            return null;
+    }
+  }
+}
+

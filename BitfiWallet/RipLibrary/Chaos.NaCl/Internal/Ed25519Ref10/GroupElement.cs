@@ -61,3 +61,4 @@ namespace Chaos.NaCl.Internal.Ed25519Ref10
 		public FieldElement T2d;
 	} ;
 }
+

@@ -9,3 +9,4 @@ namespace Apollo.Models
     public string Transaction { get; set; }
   }
 }
+
